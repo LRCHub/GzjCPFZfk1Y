@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "not wrong",
+  "base_artist": "ルサンチマン",
+  "createdAt": "2025-12-03T15:14:42.130927Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Know I'm Not Wrong",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/01_I_Know_I'm_Not_Wrong_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Know I'm Not Wrong",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/02_I_Know_I'm_Not_Wrong_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "This Love Is Not Wrong",
+      "artist": "The Field Mice",
+      "has_synced": false,
+      "path": "select/03_This_Love_Is_Not_Wrong_The_Field_Mice.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Know I'm Not Wrong",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/04_I_Know_I'm_Not_Wrong_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Know I'm Not Wrong (1/23/79 Version)",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/05_I_Know_I'm_Not_Wrong_(1_23_79_Version)_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Know I'm Not Wrong (11/2/78 Version)",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/06_I_Know_I'm_Not_Wrong_(11_2_78_Version)_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Know I'm Not Wrong (11/2/78)",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/07_I_Know_I'm_Not_Wrong_(11_2_78)_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Know I'm Not Wrong (11/3/78 Version)",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/08_I_Know_I'm_Not_Wrong_(11_3_78_Version)_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Know I'm Not Wrong (4/25/79 Version)",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/09_I_Know_I'm_Not_Wrong_(4_25_79_Version)_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Know I'm Not Wrong (8/13/79 Version)",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/10_I_Know_I'm_Not_Wrong_(8_13_79_Version)_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "love; not wrong (brave)",
+      "artist": "EDEN",
+      "has_synced": true,
+      "path": "select/11_love;_not_wrong_(brave)_EDEN.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Know I'm Not Wrong (11278)",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/12_I_Know_I'm_Not_Wrong_(11278)_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Know I'm Not Wrong (11378 Version)",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/13_I_Know_I'm_Not_Wrong_(11378_Version)_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Know I'm Not Wrong (12379 Version)",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/14_I_Know_I'm_Not_Wrong_(12379_Version)_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Know I'm Not Wrong (42579 Version)",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/15_I_Know_I'm_Not_Wrong_(42579_Version)_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "not wrong",
+      "artist": "ルサンチマン",
+      "has_synced": false,
+      "path": "select/pl_01_not_wrong_ルサンチマン.txt"
+    }
+  ]
+}
